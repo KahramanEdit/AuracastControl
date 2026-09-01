@@ -2,10 +2,10 @@
 KernelSU modülü ile RedMagic 11 Pro'da Auracast (LE Audio Broadcast) yayını kontrol edin. WebUI + komut satırı arayüzü.
 ## Screenshots
 
-![Ana Ekran](Screenshot_2026090...1.png)
+![Main UI](Screenshot_20260901_141518.jpg)
 
-![WebUI Kontrol Paneli](Screenshot_2026090...2.png)
+![RGB Effects](Screenshot_20260901_141525.jpg)
 
-![GameSpace Yönlendirme](Screenshot_2026090...3.png)
+![GameSpace Settings](Screenshot_20260901_141532.jpg)
 
-> RedMagic RGB Control Center Web UI ve GameSpace yönlendirme ekranları
+> RedMagic RGB Control Center Web UI
