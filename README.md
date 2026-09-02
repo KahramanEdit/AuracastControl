@@ -4,9 +4,9 @@ KernelSU modülü ile RedMagic 11 Pro'da Auracast (LE Audio Broadcast) yayını 
 
 ![Main UI](Screenshot_20260901_141518.jpg)
 
-![RGB Effects](Screenshot_20260901_141525.jpg)
+![AURA PANEL1](Screenshot_20260901_141525.jpg)
 
-![GameSpace Settings](Screenshot_20260901_141532.jpg)
+![AURA PANEL2](Screenshot_20260901_141532.jpg)
 
 > RedMagic RGB Control Center Web UI
 ## Disclaimer & Warning
